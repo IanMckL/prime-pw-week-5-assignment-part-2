@@ -4,7 +4,6 @@ html{
     -webkit-mask-image: url(https://ianmckl.github.io/prime-pw-week-5-assignment-part-2/record.svg);
     mask-size: cover;
     mask-image: url(https://ianmckl.github.io/prime-pw-week-5-assignment-part-2/record.svg);
-    mask-type: alpha;
     color:white;
     font-family: 'Abel', sans-serif;
     text-align: center;
