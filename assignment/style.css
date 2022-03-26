@@ -1,0 +1,23 @@
+html{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    -webkit-mask-image: url(record.svg);
+    mask-size: cover;
+    mask-image: url(record.svg);
+    mask-type: alpha;
+    color:white;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+}
+main{
+    background-color: lightgray;
+    border-radius: 30px;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(66,66,66,0.2813186813186813) 100%);    color: inherit;
+    text-align: inherit;
+    padding: 1em;
+}
+body{
+    margin: 0%;
+}
+
